@@ -6,6 +6,12 @@ import 'element-ui/lib/theme-chalk/index.css'
 import store from './store'
 import i18n from './lib/i18n'
 import './assets/css/icon.css'
+// import { messages } from './components/common/i18n'
+// Vue.use(VueI18n)
+// const i18n = new VueI18n({
+//   locale: 'zh',
+//   messages
+// })
 // import './components/common/directives';
 // import 'babel-polyfill';
 Vue.use(ElementUI)
