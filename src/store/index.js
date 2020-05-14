@@ -8,6 +8,8 @@ const store = new Vuex.Store({
     modules:{
         Dashboard,
         // dispatchSupplier
-    }
-})
+    },
+  
+});
+   
 export default store 
